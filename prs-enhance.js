@@ -1,3 +1,11 @@
+// ==UserScript==
+// @name         Enhance bitbucket pull requests
+// @version      0.1
+// @author       Aleksandr Kolesavin
+// @match        https://*/projects/*/repos/*/pull-requests*
+// @grant        none
+// ==/UserScript==
+
 const PR_ID_DATASET = 'data-pull-request-id';
 const MIN_APPROVES_COUNT = 3;
 const DELAY_AFTER_LOCATION_CHANGED = 700;
