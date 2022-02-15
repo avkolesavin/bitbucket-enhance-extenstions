@@ -2,7 +2,8 @@
 // @name         Enhance bitbucket pull requests
 // @version      0.1
 // @author       Aleksandr Kolesavin
-// @match        https://*/projects/*/repos/*/pull-requests*
+// @match        https://*/projects/*/repos/*/pull-requests
+// @match        https://*/projects/*/repos/*/pull-requests?*
 // @grant        none
 // ==/UserScript==
 
