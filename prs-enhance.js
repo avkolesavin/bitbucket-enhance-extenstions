@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Enhance bitbucket pull requests
-// @version      0.1
+// @version      0.1.1
 // @author       Aleksandr Kolesavin
 // @match        https://*/projects/*/repos/*/pull-requests
 // @match        https://*/projects/*/repos/*/pull-requests?*
