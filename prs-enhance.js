@@ -21,10 +21,10 @@ if (!(host && projectKey && repositorySlug)) {
 const apiUrl = `https://${host}/rest/api/1.0/projects/${projectKey}/repos/${repositorySlug}`;
 
 const approvesColors = {
-    0: '#FF5722',
-    1: '#FFC107',
-    2: '#FFEB3B',
-    3: '#4CAF50',
+    0: '#FF5722E6',
+    1: '#FFC107E6',
+    2: '#FFEB3BE6',
+    3: '#4CAF50E6',
 };
 const getApproveColor = approves => approvesColors[approves] || approvesColors[MIN_APPROVES_COUNT];
 
