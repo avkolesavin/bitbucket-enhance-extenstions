@@ -2,6 +2,8 @@
 // @name         Enhance bitbucket pull requests
 // @version      0.1.1
 // @updateURL    https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/prs-enhance.js
+// @downloadURL  https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/prs-enhance.js
+// @supportURL   https://github.com/avkolesavin/bitbucket-enhance-extenstions/issues
 // @author       Aleksandr Kolesavin
 // @match        https://*/projects/*/repos/*/pull-requests
 // @match        https://*/projects/*/repos/*/pull-requests?*
