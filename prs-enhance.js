@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Enhance bitbucket pull requests
-// @version      0.1.1
+// @version      0.1.2
 // @updateURL    https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/prs-enhance.js
 // @downloadURL  https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/prs-enhance.js
 // @supportURL   https://github.com/avkolesavin/bitbucket-enhance-extenstions/issues
