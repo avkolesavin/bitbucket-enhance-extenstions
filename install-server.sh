@@ -1,0 +1,1 @@
+ln -s "$(PWD)/tampermonkey-server.js" "/usr/local/bin/tampermonkey-server"
