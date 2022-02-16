@@ -1,12 +1,12 @@
 // ==UserScript==
-// @version      1.0
 // @name         Developing server connector
+// @version      1.0
 // @description  Connects to the local server, loads a provided extension script and eval it on the page. This allows to see fresh changes immediately.
 // @author       Aleksandr Kolesavin
 // @updateURL    https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/dev-utils/tampermonkey-server-extension.js
 // @downloadURL  https://raw.githubusercontent.com/avkolesavin/bitbucket-enhance-extenstions/main/dev-utils/tampermonkey-server-extension.js
 // @supportURL   https://github.com/avkolesavin/bitbucket-enhance-extenstions/issues
-// match *
+// @match *
 // @grant        none
 // ==/UserScript==
 
